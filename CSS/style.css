@@ -1,0 +1,26 @@
+.box1{
+    display: flex;
+    
+
+    /* width: 150px;
+    height: 150px;
+    background-color: red;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    color: aliceblue;
+    margin: 10px; */
+}
+.pict{
+    height: 300px;
+}
+.box2{
+    height: 300px;
+    width: 500px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;  
+    padding-left: 4rem;
+}
+
